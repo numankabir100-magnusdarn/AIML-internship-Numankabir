@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+runs/
+models/*.pt
+models/*.onnx
+models/*.engine
